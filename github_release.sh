@@ -26,4 +26,4 @@ if [ "$device_1" != "$device_2" ] || [ "$device_1" != "$device_3" ]; then
 fi
 
 date=$(date +'%Y%m%d')
-gh release create $device_1-$date $1 $2 $3
+gh release create "$device_1-$date" $1 $2 $3 --title "$device-$date build" --notes "Please read the changelog at https://kenvyra.xyz/devices/$device_1/ instead."
