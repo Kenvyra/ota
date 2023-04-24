@@ -2,8 +2,8 @@
 import argparse
 import json
 import os
+import time
 import uuid
-from datetime import datetime
 from urllib.parse import urlparse
 
 import requests
@@ -12,7 +12,7 @@ from tqdm import tqdm
 CHUNK_SIZE = 1024 * 1024 * 4  # 4MB
 
 DEVICE_DATA = {
-    "datetime": int(datetime.utcnow().timestamp()),
+    "datetime": int(time.time()),
     "filename": None,  # To be filled in
     "id": str(uuid.uuid4()),
     "size": None,  # To be filled in
