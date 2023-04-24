@@ -46,7 +46,7 @@ def get_file_data(file_url: str, file_path: str | None) -> bytes:
 
 
 def write_data(flavor: str, device: str) -> None:
-    filename = f"{device}_{flavor.lower()}.zip"
+    filename = f"{device}_{flavor.lower()}.json"
 
     with open(filename, "w") as file:
         json.dump({"response": [DEVICE_DATA]}, file, indent=4)
