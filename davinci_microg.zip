@@ -1,0 +1,12 @@
+{
+    "response": [
+        {
+            "datetime": 1682363894,
+            "filename": "Kenvyra-13.0-davinci-OFFICIAL-20230423-MICROG.zip",
+            "id": "4055e87e-bfa9-417d-95ad-89d229000353",
+            "size": 1245599578,
+            "url": "https://github.com/Kenvyra/ota/releases/download/davinci-20230424/Kenvyra-13.0-davinci-OFFICIAL-20230423-MICROG.zip",
+            "version": "13.0"
+        }
+    ]
+}
