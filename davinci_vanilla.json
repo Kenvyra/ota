@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1682363884,
-            "filename": "Kenvyra-13.0-davinci-OFFICIAL-20230423-VANILLA.zip",
-            "id": "c7a91ce3-18aa-4f38-92d7-06f37de92d64",
-            "size": 1205299522,
-            "url": "https://github.com/Kenvyra/ota/releases/download/davinci-20230424/Kenvyra-13.0-davinci-OFFICIAL-20230423-VANILLA.zip",
+            "datetime": 1682383485,
+            "filename": "Kenvyra-13.0-davinci-OFFICIAL-20230425-VANILLA.zip",
+            "id": "c4d325b5025f38efe0ff85114b04a95c",
+            "size": 1205373095,
+            "url": "https://github.com/Kenvyra/ota/releases/download/davinci-20230425/Kenvyra-13.0-davinci-OFFICIAL-20230425-VANILLA.zip",
             "version": "13.0"
         }
     ]
