@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 import argparse
+import hashlib
+import io
 import json
 import os
 import time
 import uuid
+import zipfile
 from urllib.parse import urlparse
 
 import requests
@@ -12,9 +15,9 @@ from tqdm import tqdm
 CHUNK_SIZE = 1024 * 1024 * 4  # 4MB
 
 DEVICE_DATA = {
-    "datetime": int(time.time()),
+    "datetime": None, # To be filled in
     "filename": None,  # To be filled in
-    "id": str(uuid.uuid4()),
+    "id": None, # To be filled in
     "size": None,  # To be filled in
     "url": None,  # To be filled in
     "version": "13.0",
@@ -93,6 +96,15 @@ if __name__ == "__main__":
     file_content = get_file_data(args.zip_url, args.local_file)
     size = len(file_content)
 
+    with zipfile.ZipFile(io.BytesIO(file_content)) as archive:
+        metadata = archive.read("META-INF/com/android/metadata")
+        for line in metadata.splitlines():
+            if line.startswith(b"post-timestamp="):
+                DEVICE_DATA["datetime"] = int(line[15:])
+
+    md5 = hashlib.md5(file_content).hexdigest()
+
+    DEVICE_DATA["id"] = md5
     DEVICE_DATA["filename"] = filename
     DEVICE_DATA["size"] = size
     DEVICE_DATA["url"] = args.zip_url
