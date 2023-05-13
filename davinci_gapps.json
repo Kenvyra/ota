@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1682384100,
-            "filename": "Kenvyra-13.0-davinci-OFFICIAL-20230425-GAPPS.zip",
-            "id": "8c238e14546d48a3c52ffc7fa047a158",
-            "size": 2009341079,
-            "url": "https://github.com/Kenvyra/ota/releases/download/davinci-20230425/Kenvyra-13.0-davinci-OFFICIAL-20230425-GAPPS.zip",
+            "datetime": 1683988259,
+            "filename": "Kenvyra-13.0-davinci-OFFICIAL-20230513-GAPPS.zip",
+            "id": "7ff2fb2b382d6aaa9d5926d67e0afbbb",
+            "size": 2008153766,
+            "url": "https://github.com/Kenvyra/ota/releases/download/davinci-20230513/Kenvyra-13.0-davinci-OFFICIAL-20230513-GAPPS.zip",
             "version": "13.0"
         }
     ]
