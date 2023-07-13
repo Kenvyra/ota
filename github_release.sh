@@ -7,7 +7,8 @@ then
 fi
 
 parse_device_name() {
-    parts=(${1//-/ })
+    filename=$(basename $1)
+    parts=(${filename//-/ })
     echo ${parts[2]}
 }
 
