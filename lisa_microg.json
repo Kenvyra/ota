@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1686262220,
-            "filename": "Kenvyra-13.0-lisa-OFFICIAL-20230609-MICROG.zip",
-            "id": "b70ae5f3580f831c65e73917a71285f6",
-            "size": 1310671181,
-            "url": "https://github.com/Kenvyra/ota/releases/download/lisa-20230609/Kenvyra-13.0-lisa-OFFICIAL-20230609-MICROG.zip",
+            "datetime": 1689256507,
+            "filename": "Kenvyra-13.0-lisa-OFFICIAL-20230713-MICROG.zip",
+            "id": "aec80dcd206eaedcf0c1159ddf18cd49",
+            "size": 1164625374,
+            "url": "https://github.com/Kenvyra/ota/releases/download/13.0-20230714/Kenvyra-13.0-lisa-OFFICIAL-20230713-MICROG.zip",
             "version": "13.0"
         }
     ]

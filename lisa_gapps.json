@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1686262220,
-            "filename": "Kenvyra-13.0-lisa-OFFICIAL-20230609-GAPPS.zip",
-            "id": "43071fb579728342db73b53427bcc2f8",
-            "size": 1950719597,
-            "url": "https://github.com/Kenvyra/ota/releases/download/lisa-20230609/Kenvyra-13.0-lisa-OFFICIAL-20230609-GAPPS.zip",
+            "datetime": 1689256507,
+            "filename": "Kenvyra-13.0-lisa-OFFICIAL-20230713-GAPPS.zip",
+            "id": "0a6735394f26563a654a506165b7a4bf",
+            "size": 1762109112,
+            "url": "https://github.com/Kenvyra/ota/releases/download/13.0-20230714/Kenvyra-13.0-lisa-OFFICIAL-20230713-GAPPS.zip",
             "version": "13.0"
         }
     ]

@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1686262220,
-            "filename": "Kenvyra-13.0-lisa-OFFICIAL-20230609-VANILLA.zip",
-            "id": "7d30619e08678a4a7ef72c8060fa2caa",
-            "size": 1280950124,
-            "url": "https://github.com/Kenvyra/ota/releases/download/lisa-20230609/Kenvyra-13.0-lisa-OFFICIAL-20230609-VANILLA.zip",
+            "datetime": 1689256507,
+            "filename": "Kenvyra-13.0-lisa-OFFICIAL-20230713-VANILLA.zip",
+            "id": "0172577403bf3d8b379cc16d64ff5dc9",
+            "size": 1134077551,
+            "url": "https://github.com/Kenvyra/ota/releases/download/13.0-20230714/Kenvyra-13.0-lisa-OFFICIAL-20230713-VANILLA.zip",
             "version": "13.0"
         }
     ]
