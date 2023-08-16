@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1689347049,
-            "filename": "Kenvyra-13.0-sweet-OFFICIAL-20230714-GAPPS.zip",
-            "id": "6fc90d331d3507e693ec43b9edca3c07",
-            "size": 2054018170,
-            "url": "https://github.com/Kenvyra/ota/releases/download/sweet-20230714/Kenvyra-13.0-sweet-OFFICIAL-20230714-GAPPS.zip",
+            "datetime": 1692208799,
+            "filename": "Kenvyra-13.0-sweet-OFFICIAL-20230816-GAPPS.zip",
+            "id": "16f7e28d96331c78c8690c8a84142a0e",
+            "size": 1966240973,
+            "url": "https://github.com/Kenvyra/ota/releases/download/sweet-20230816/Kenvyra-13.0-sweet-OFFICIAL-20230816-GAPPS.zip",
             "version": "13.0"
         }
     ]

@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1689347049,
-            "filename": "Kenvyra-13.0-sweet-OFFICIAL-20230714-VANILLA.zip",
-            "id": "aee7873a4ee26073eeaf6f7d7a84cf5a",
-            "size": 1255960559,
-            "url": "https://github.com/Kenvyra/ota/releases/download/sweet-20230714/Kenvyra-13.0-sweet-OFFICIAL-20230714-VANILLA.zip",
+            "datetime": 1692208799,
+            "filename": "Kenvyra-13.0-sweet-OFFICIAL-20230816-VANILLA.zip",
+            "id": "5042496169a8841bb66c517abd768d34",
+            "size": 1253203296,
+            "url": "https://github.com/Kenvyra/ota/releases/download/sweet-20230816/Kenvyra-13.0-sweet-OFFICIAL-20230816-VANILLA.zip",
             "version": "13.0"
         }
     ]

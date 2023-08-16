@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1689347049,
-            "filename": "Kenvyra-13.0-sweet-OFFICIAL-20230714-MICROG.zip",
-            "id": "b14e7d13efd55beb5d0c105bd77b9d92",
-            "size": 1298857510,
-            "url": "https://github.com/Kenvyra/ota/releases/download/sweet-20230714/Kenvyra-13.0-sweet-OFFICIAL-20230714-MICROG.zip",
+            "datetime": 1692208799,
+            "filename": "Kenvyra-13.0-sweet-OFFICIAL-20230816-MICROG.zip",
+            "id": "854cb2318d11c43fff0a3c1114e5d1f3",
+            "size": 1294001861,
+            "url": "https://github.com/Kenvyra/ota/releases/download/sweet-20230816/Kenvyra-13.0-sweet-OFFICIAL-20230816-MICROG.zip",
             "version": "13.0"
         }
     ]
