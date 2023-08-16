@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": 1692106686,
-            "filename": "Kenvyra-13.0-davinci-OFFICIAL-20230815-MICROG.zip",
-            "id": "ca74d884f175e7102cfa8571cfe319c0",
-            "size": 1254419389,
-            "url": "https://github.com/Kenvyra/ota/releases/download/davinci-20230815/Kenvyra-13.0-davinci-OFFICIAL-20230815-MICROG.zip",
+            "datetime": 1692193396,
+            "filename": "Kenvyra-13.0-davinci-OFFICIAL-20230816-MICROG.zip",
+            "id": "eb95f50025a17146b200231ad4341e47",
+            "size": 1245512443,
+            "url": "https://github.com/Kenvyra/ota/releases/download/davinci-20230816/Kenvyra-13.0-davinci-OFFICIAL-20230816-MICROG.zip",
             "version": "13.0"
         }
     ]
